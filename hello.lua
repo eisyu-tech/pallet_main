@@ -1,5 +1,5 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{
-	Title = "pshade", 
+	Title = "使ってくれてありがとう", 
 	Text = "please wait", 
 	Icon = ""
 })
